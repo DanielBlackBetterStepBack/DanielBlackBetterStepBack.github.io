@@ -1,0 +1,21 @@
+body {
+    font-family: system-ui;
+    background: #FFE4E1;
+    color: black;
+    text-align: center;
+  }
+  h1 {
+    font-size: 35px;
+  }
+  h2 {
+    font-size: 30px;
+  }
+  section {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  li {
+    list-style: decimal-leading-zero;
+    font-family: Times-New-Roman;
+    font-size: 20px;
+  }
